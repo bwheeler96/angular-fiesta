@@ -1,0 +1,18 @@
+{
+  "name": "fiestApi",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bwheeler96/Fiesta-Web-App",
+  "authors": [
+    "Brian Wheeler <bwheeler96@gmail.com>"
+  ],
+  "description": "AngularJS provider for the Fiesta API",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
