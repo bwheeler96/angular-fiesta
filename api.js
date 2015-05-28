@@ -77,7 +77,7 @@ fiestaProvider = function() {
 
     apiParams = function(params) {
       params = angular.extend({
-        authentication_token: localStorage.authentication_token
+        authentication_token: api.user() && api.user().authentication_token
       }, params);
       return params;
     };
