@@ -1,0 +1,27 @@
+{
+  "name": "angular-fiesta",
+  "homepage": "https://github.com/bwheeler96/angular-fiesta",
+  "authors": [
+    "Brian Wheeler <bwheeler96@gmail.com>"
+  ],
+  "description": "AngularJS provider for the Fiesta API",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "43d50edce0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "43d50edce05bed860c287cc4ee71254c7b86e228"
+  },
+  "_source": "git@github.com:bwheeler96/angular-fiesta.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:bwheeler96/angular-fiesta.git",
+  "_direct": true
+}
