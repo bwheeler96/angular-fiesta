@@ -72,7 +72,7 @@ fiestaProvider = function() {
       while (path.indexOf('/') === 0) {
         path = path.substr(1);
       }
-      return this.apiBaseUrl + path;
+      return self.apiBaseUrl + path;
     };
 
     apiParams = function(params) {
